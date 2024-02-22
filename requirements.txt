@@ -1,0 +1,6 @@
+boto3
+lxml
+pandas
+streamlit
+toml
+watchdog
